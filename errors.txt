@@ -5,3 +5,7 @@ Added ability to go to top of chats list by clicking on selected filter.
 ограничивайте длину заголовка 50 символами
 
 
+Added ability to change userpic with image from clipboard.
+нету повелительного наклонения
+
+
