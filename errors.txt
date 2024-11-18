@@ -1,2 +1,7 @@
 Added ability to go to top of chats list by clicking on selected filter.
 нету повелительного наклонения
+
+Added ability to go to top of chats list by clicking on selected filter.
+ограничивайте длину заголовка 50 символами
+
+
