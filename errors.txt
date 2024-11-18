@@ -8,4 +8,5 @@ Added ability to go to top of chats list by clicking on selected filter.
 Added ability to change userpic with image from clipboard.
 нету повелительного наклонения
 
-
+Added debug logs for changing chats filters from context menu.
+ограничивайте длину заголовка 50 символами
